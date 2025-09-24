@@ -1,0 +1,16 @@
+Key Inclusion Criteria
+
+Confirmed CF diagnosis, clinically stable, aged 6 to <12 years
+Weight >=15 kg without shoes at screening visit
+Patient genotype:
+Homozygous for the F508del mutation OR
+Heterozygous for the F508del mutation and one of the approximately 200 other mutations in the CFTR gene that resulted in either:
+No CFTR protein
+A CFTR protein that lacks baseline function and is not responsive to ivacaftor and tezacaftor/ivacaftor
+
+
+Key Exclusion Criteria
+
+Clinically significant cirrhosis with or without portal hypertension
+Lung infection with organisms associated with a more rapid decline in pulmonary status (including, but not limited to, Burkholderia cenocepacia, Burkholderia dolosa, and Mycobacterium abscessus)
+Solid organ or hematologic transplantation
